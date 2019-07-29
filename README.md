@@ -30,6 +30,7 @@ Happy Open Sourcing!
 - [Detect_Loop_in_Linked_List](algorithms/Linked_List/detect_loop_in_linkedlist)
 - [Delete consecutive duplicate elements in Linked List](algorithms/Linked_List/Delete_duplicate_from_linkedlist)
 - [Reversing a Linked List using stack](algorithms/Linked_List/reverse_linkedlist_using_stack)
+- [Check if a Linked List is Palindromic using two pointers recursively](algorithms/Linked_List/is_Linkedlist_palindrome)
 
 ### Graph
 
