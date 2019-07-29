@@ -1,4 +1,4 @@
-#Check if the given linked list is palindrome or not.
+### Check if the given linked list is palindrome or not.
 
 This method functions recursively using two pointers:
 	keep `slow` pointer on head and `cur` pointer on second last node. Check if value of slow node and last node (`cur.next`) is equal.
